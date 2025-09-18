@@ -5,11 +5,17 @@ Data
 The project utilizes a dataset containing sales data for a Reliance store, encompassing information such as:
 
 Product category
+
 Product subcategory
+
 Sales amount
+
 Quantity sold
+
 Date of sale
+
 Store location
+
 Methodology
 Data Cleaning and Preparation:
 Import the sales data into Excel.
